@@ -12,7 +12,7 @@ This is a Python Flask application that allows users to upload an image through 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/programmer-bolu/python-color-fetcher.git
    cd your-repo-name
    ```
 
